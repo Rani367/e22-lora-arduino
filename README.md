@@ -1,6 +1,6 @@
 # E22 LoRa UART
 
-[עברית](README.he.md)
+Hebrew: [עברית](README.he.md)
 
 Arduino driver for the Ebyte E22 UART LoRa modules. We use it on the satellite communication
 card, which has an ATmega328PB and an E22-400T30D. It also works on an ESP32, which is easier
